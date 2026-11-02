@@ -1,0 +1,9 @@
+# Node & OS
+node_modules/
+.DS_Store
+*.log
+npm-debug.log*
+
+# Temp
+.tmp/
+/tmp/

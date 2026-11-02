@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Pocket Kirtans Minimalist Black & White Icon -->
+  <rect width="512" height="512" rx="128" fill="#000000" />
+  
+  <!-- Outer subtle circular halo -->
+  <circle cx="256" cy="256" r="200" fill="none" stroke="#ffffff" stroke-width="6" opacity="0.4" />
+  
+  <!-- Minimalist Flame (Devotion / Jyot) -->
+  <path d="M 256 100 
+           C 290 160, 320 210, 310 260 
+           C 300 310, 260 330, 256 330 
+           C 252 330, 212 310, 202 260 
+           C 192 210, 222 160, 256 100 Z" 
+        fill="#ffffff" />
+        
+  <!-- Inner teardrop negative space -->
+  <path d="M 256 195 
+           C 270 230, 280 255, 275 275 
+           C 270 295, 260 305, 256 305 
+           C 252 305, 242 295, 237 275 
+           C 232 255, 242 230, 256 195 Z" 
+        fill="#000000" />
+
+  <!-- Sacred Pustak / Open Book Wings (Kirtan Padas) -->
+  <!-- Left Page -->
+  <path d="M 256 365 
+           C 220 345, 170 345, 130 365 
+           C 125 367, 120 373, 120 380 
+           L 120 400 
+           C 170 380, 220 380, 256 400 Z" 
+        fill="#ffffff" />
+        
+  <!-- Right Page -->
+  <path d="M 256 365 
+           C 292 345, 342 345, 382 365 
+           C 387 367, 392 373, 392 380 
+           L 392 400 
+           C 342 380, 292 380, 256 400 Z" 
+        fill="#ffffff" />
+
+  <!-- Center Spine Dot -->
+  <circle cx="256" cy="350" r="5" fill="#ffffff" />
+</svg>

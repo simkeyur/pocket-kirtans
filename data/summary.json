@@ -1,0 +1,57 @@
+{
+  "appName": "pocketkirtan",
+  "tradition": "Original Swaminarayan Sampraday",
+  "lastUpdated": "2026-11-02T19:55:19.235Z",
+  "datasets": {
+    "original_aarti_and_ashtak": {
+      "file": "data/original_aarti_and_ashtak.json",
+      "description": "Authentic Original Aarti (Jay Sadguru Swami), Mahamantra Dhun, Radhika-Krishna Ashtak, Nirvikalp Uttam Ati, Dandvat Shloks, and 5 Mandir Aartis.",
+      "itemCount": 24
+    },
+    "premanand_swami_kirtans": {
+      "file": "data/premanand_swami_kirtans.json",
+      "author": "Sadguru Premanand Swami (સદ્‍ગુરુ પ્રેમાનંદ સ્વામી / પ્રેમસખી)",
+      "itemCount": 689
+    },
+    "brahmanand_swami_kirtans": {
+      "file": "data/brahmanand_swami_kirtans.json",
+      "author": "Sadguru Brahmanand Swami (સદ્‍ગુરુ બ્રહ્માનંદ સ્વામી / બ્રહ્મમુનિ)",
+      "itemCount": 269
+    },
+    "muktanand_swami_kirtans": {
+      "file": "data/muktanand_swami_kirtans.json",
+      "author": "Sadguru Muktanand Swami (સદ્‍ગુરુ મુક્તાનંદ સ્વામી)",
+      "itemCount": 173
+    },
+    "nishkulanand_swami_kirtans": {
+      "file": "data/nishkulanand_swami_kirtans.json",
+      "author": "Sadguru Nishkulanand Swami (સદ્‍ગુરુ નિષ્કુળાનંદ સ્વામી)",
+      "itemCount": 172
+    },
+    "devanand_swami_kirtans": {
+      "file": "data/devanand_swami_kirtans.json",
+      "author": "Sadguru Devanand Swami (સદ્‍ગુરુ દેવાનંદ સ્વામી)",
+      "itemCount": 64
+    },
+    "other_paramhansas_kirtans": {
+      "file": "data/other_paramhansas_kirtans.json",
+      "description": "Compositions of Krushnanand Swami, Bhoomanand Swami, Manjukeshanand Swami, Dayanand Swami, Akhandanand Muni, Jeram Brahmachari, Shatanand Muni, Sukhanand Swami, Nityanand Swami, etc.",
+      "itemCount": 87
+    },
+    "acharya_parampara_kirtans": {
+      "file": "data/acharya_parampara_kirtans.json",
+      "description": "Compositions by Acharya Viharilalji Maharaj and Acharya Ayodhyaprasadji Maharaj.",
+      "itemCount": 20
+    },
+    "all_aarti_ashtak_collection": {
+      "file": "data/all_aarti_ashtak_collection.json",
+      "itemCount": 24
+    },
+    "nitya_kriya": {
+      "file": "data/nitya_kriya.json",
+      "description": "Complete Full Chesta (13 padas), Shayan (Sleep) kirtans (Podhe Prabhu, Re Shyam, Podho Podho, Meetha Vahala), 8-pad Murti Dhyan Chintamani, and 12 Godi padas.",
+      "itemCount": 37
+    }
+  },
+  "totalKirtansIndexed": 1487
+}
